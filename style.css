@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.jokes{
+    text-align: center;
+    margin-top: 48%;
+    color: beige;
+}
+
+.btn{
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.btn.hover{
+    background-color: rgb(13, 183, 4);
+}
